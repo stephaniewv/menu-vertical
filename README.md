@@ -3,12 +3,12 @@
 ### Objetivo Funcional
 Creación de un menú como en la siguiente imagen
 
-###Objetivo Tecnico
+### Objetivo Tecnico
 Poner en practica el ejercicio de menú vertical aplicando nuestros conocimientos en pseudo clase.
 
-![Texto alternativo] (assets/img/menu-vertical.png)
+![Texto alternativo](assets/img/menu-vertical.png)
 
-###Herramientas 
+### Herramientas 
 
 + Editor Visual Studio Code
     + HTML5
